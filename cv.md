@@ -33,3 +33,10 @@ let sum = 0
 sheep.forEach(el => el === true ? sum++ : 0)
 return sum
 }
+
+---
+
+### Education
+
+- Samara State College
+  - cyber security
