@@ -40,3 +40,17 @@ return sum
 
 - Samara State College
   - cyber security
+
+---
+
+### Experience
+
+Development of one small application
+
+---
+
+### Languages
+
+- Russian
+- Ukrainian
+- English
